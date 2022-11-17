@@ -1,4 +1,4 @@
-
+print(' Числовые типы данных')
 print('problem 1')
 x = 17925<=(34**2)
 y = 17925<=(26*3)
@@ -49,3 +49,25 @@ print((25+75+10+95)/4)
 
 print('problem9')
 
+f=4
+h=4
+m=4
+print((f+h)*m)
+
+
+print('problem10')
+ab=2
+ac=6
+av=15/2
+af=1
+ae=4
+
+print('problem11')
+aw=2+3
+ar=aw*3
+ah=ar**2
+al=ah-193432
+ak=5
+aq=(aw-ar**(ah/al))%ak
+print(al)
+print(aq)
